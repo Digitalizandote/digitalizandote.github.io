@@ -6,38 +6,36 @@ a:hover{
 	text-decoration: none;
 }
 body{
-	background: url(../img/cartagena.jpg) no-repeat;
+	background: url(../img/background.jpg) no-repeat;
 	background-attachment: fixed;
 	background-position: center;
 	background-size: cover;
 	font-family: 'Overpass Mono', monospace;
 }
-.cv, .gh, .lk, .wb{
+h1, h2{
+	background: white;
+}
+.fb, .tw, .gg{
+	color: white;
 	cursor: pointer;
 	font-weight: bold;
 	padding: 20px;
 }
-.cv{
-	background: #ff0000;
+.fb{
+	background: #627AAD;
 }
-.cv:hover{
-	background: #AB0202;
+.fb:hover{
+	background: #3b5998;
 }
-.gh{
-	background: #333333;
+.tw{
+	background: #55ACEE;
 }
-.gh:hover{
-	background: #272727;
+.tw:hover{
+	background: #1B95E0;
 }
-.lk{
-	background: #0077B5;
+.gg{
+	background: #d07b70;
 }
-.lk:hover{
-	background: #025D8E;
-}
-.wb{
-	background: #000000;
-}
-.wb:hover{
-	background: #131313;
+.gg:hover{
+	background: #c97267;
 }
