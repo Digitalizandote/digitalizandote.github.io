@@ -12,7 +12,7 @@ body{
 	background-size: cover;
 	font-family: 'Overpass Mono', monospace;
 }
-h1, h2{
+h1, h2, h3{
 	background: white;
 }
 .fb, .tw, .gg{
